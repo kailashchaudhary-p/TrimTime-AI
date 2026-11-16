@@ -1,0 +1,1001 @@
+booking_id,service_type,hair_length,hair_density,beard_length,service_complexity,style_change_requested,barber_experience_years,customer_type,actual_duration_minutes
+TT0001,Facial,Short,High,Long,High,No,13,New,57
+TT0002,Beard Trim,Medium,Medium,None,Medium,No,15,Returning,15
+TT0003,Facial,Short,High,Short,Low,No,6,Returning,37
+TT0004,Haircut + Beard,Short,Medium,Medium,Medium,No,8,Returning,41
+TT0005,Haircut,Medium,Low,Medium,Low,Yes,19,New,36
+TT0006,Hair Coloring,Medium,High,None,Medium,No,18,Returning,71
+TT0007,Facial,Long,Medium,Long,Medium,No,9,Returning,48
+TT0008,Facial,Short,Low,None,Low,No,5,New,45
+TT0009,Haircut,Medium,Low,Short,Low,Yes,7,Returning,38
+TT0010,Beard Trim,Medium,Medium,Short,Medium,No,11,Returning,29
+TT0011,Haircut,Medium,Low,Medium,Low,No,12,Returning,35
+TT0012,Hair Coloring,Medium,Medium,None,High,No,4,Returning,95
+TT0013,Haircut + Beard,Medium,Low,None,Medium,No,2,Returning,44
+TT0014,Facial,Long,Medium,Medium,Medium,No,10,New,49
+TT0015,Beard Trim,Short,Medium,None,Low,No,16,New,21
+TT0016,Haircut,Short,Medium,Short,Medium,Yes,4,Returning,38
+TT0017,Beard Trim,Medium,Medium,Medium,High,No,9,Returning,45
+TT0018,Haircut,Long,Low,Medium,Low,No,4,New,38
+TT0019,Facial,Short,Medium,None,Medium,No,5,Returning,50
+TT0020,Haircut + Beard,Medium,Medium,None,Low,No,13,New,43
+TT0021,Haircut + Beard,Long,Medium,Long,Medium,No,6,New,69
+TT0022,Haircut,Medium,Low,Short,Medium,No,6,Returning,40
+TT0023,Hair Coloring,Long,Low,None,Medium,No,20,Returning,79
+TT0024,Facial,Medium,Low,None,Medium,Yes,4,Returning,47
+TT0025,Facial,Medium,Medium,None,Medium,No,4,Returning,39
+TT0026,Haircut,Short,Medium,Long,Low,Yes,19,Returning,29
+TT0027,Beard Trim,Long,High,None,Low,No,12,Returning,28
+TT0028,Haircut,Medium,Medium,None,High,No,1,Returning,42
+TT0029,Haircut,Medium,Medium,Short,Medium,Yes,9,New,44
+TT0030,Haircut + Beard,Medium,Medium,None,Medium,Yes,12,Returning,55
+TT0031,Haircut + Beard,Medium,Low,None,Medium,No,6,Returning,36
+TT0032,Hair Coloring,Medium,Medium,Long,Low,Yes,11,Returning,97
+TT0033,Haircut,Medium,Medium,Medium,Low,No,13,Returning,28
+TT0034,Haircut,Long,Medium,None,Low,No,6,Returning,37
+TT0035,Beard Trim,Medium,Low,Short,High,Yes,17,Returning,36
+TT0036,Haircut,Medium,High,None,Medium,Yes,10,New,53
+TT0037,Haircut,Short,High,None,Medium,No,20,Returning,29
+TT0038,Beard Trim,Medium,Low,Short,Low,No,2,Returning,8
+TT0039,Haircut,Medium,Medium,Short,Low,No,7,New,33
+TT0040,Haircut + Beard,Short,High,Medium,Medium,No,15,Returning,47
+TT0041,Beard Trim,Short,Medium,Long,Medium,Yes,18,New,29
+TT0042,Facial,Medium,High,None,High,No,5,New,59
+TT0043,Haircut + Beard,Medium,Medium,Long,Medium,No,20,Returning,48
+TT0044,Haircut,Medium,High,Short,Medium,No,4,Returning,31
+TT0045,Facial,Short,High,None,Medium,No,9,Returning,45
+TT0046,Facial,Short,Low,Medium,High,No,7,New,49
+TT0047,Beard Trim,Short,Medium,None,Medium,Yes,9,Returning,24
+TT0048,Haircut,Long,Medium,Short,Medium,No,19,New,37
+TT0049,Haircut + Beard,Long,Low,Medium,High,Yes,15,Returning,70
+TT0050,Haircut,Short,Medium,None,Low,No,16,New,26
+TT0051,Haircut,Medium,High,Medium,High,No,6,New,51
+TT0052,Haircut,Short,Low,None,Low,No,19,Returning,18
+TT0053,Facial,Short,Medium,Medium,Medium,No,9,New,48
+TT0054,Haircut + Beard,Short,High,None,Medium,No,14,Returning,50
+TT0055,Haircut + Beard,Short,Medium,None,Medium,Yes,14,New,54
+TT0056,Facial,Medium,Medium,Short,Medium,Yes,14,Returning,52
+TT0057,Beard Trim,Long,High,Medium,Medium,No,13,Returning,35
+TT0058,Beard Trim,Short,Medium,None,Low,No,10,Returning,8
+TT0059,Haircut,Medium,Low,Medium,Low,Yes,13,New,34
+TT0060,Haircut,Medium,Low,None,Low,No,19,Returning,23
+TT0061,Haircut + Beard,Long,High,Short,Medium,Yes,8,Returning,58
+TT0062,Beard Trim,Medium,Medium,Short,Medium,No,11,New,21
+TT0063,Beard Trim,Short,Medium,None,Low,No,4,New,10
+TT0064,Facial,Medium,Low,Long,High,No,8,Returning,47
+TT0065,Haircut + Beard,Short,Medium,Short,Medium,Yes,16,New,49
+TT0066,Beard Trim,Long,High,Medium,Medium,No,13,Returning,32
+TT0067,Beard Trim,Medium,Medium,Short,Medium,Yes,5,Returning,27
+TT0068,Haircut,Medium,High,Short,Low,No,11,New,35
+TT0069,Haircut,Short,Medium,Short,Medium,No,17,Returning,25
+TT0070,Beard Trim,Medium,Medium,Long,Medium,Yes,3,Returning,43
+TT0071,Haircut,Long,High,Medium,Low,No,2,Returning,40
+TT0072,Beard Trim,Medium,Medium,Short,High,No,8,Returning,34
+TT0073,Facial,Medium,Medium,Short,High,No,14,New,53
+TT0074,Haircut,Long,High,Short,Medium,Yes,7,Returning,42
+TT0075,Haircut,Long,Medium,Short,High,No,17,Returning,42
+TT0076,Haircut,Short,Medium,Short,High,No,17,New,32
+TT0077,Haircut,Medium,High,Short,Medium,Yes,11,Returning,42
+TT0078,Haircut + Beard,Medium,Low,Medium,Medium,Yes,8,New,54
+TT0079,Beard Trim,Medium,Medium,Long,Medium,Yes,1,Returning,41
+TT0080,Facial,Short,Low,Long,Low,Yes,17,New,40
+TT0081,Haircut + Beard,Short,Medium,Medium,Low,Yes,18,Returning,45
+TT0082,Beard Trim,Long,Low,Short,Low,No,9,Returning,24
+TT0083,Facial,Long,Medium,Medium,Medium,No,11,Returning,55
+TT0084,Haircut,Long,Low,None,Medium,Yes,16,Returning,37
+TT0085,Haircut,Long,Medium,Short,Medium,Yes,14,Returning,43
+TT0086,Haircut,Medium,Medium,None,Medium,Yes,3,Returning,43
+TT0087,Haircut + Beard,Long,Medium,None,Low,No,14,Returning,52
+TT0088,Beard Trim,Long,Medium,Long,Medium,No,19,Returning,24
+TT0089,Haircut,Medium,Medium,Medium,Medium,No,16,Returning,29
+TT0090,Beard Trim,Medium,Medium,Short,High,No,10,Returning,44
+TT0091,Haircut,Short,Medium,None,High,No,11,New,38
+TT0092,Haircut + Beard,Medium,High,Medium,High,Yes,6,Returning,57
+TT0093,Beard Trim,Short,Medium,Short,High,No,14,Returning,21
+TT0094,Beard Trim,Short,Low,Medium,High,No,5,New,18
+TT0095,Haircut,Medium,High,Long,Medium,No,7,New,48
+TT0096,Haircut + Beard,Medium,Medium,None,Low,No,6,Returning,46
+TT0097,Haircut,Short,Low,None,Low,Yes,7,Returning,25
+TT0098,Haircut,Long,Medium,None,Medium,No,8,New,40
+TT0099,Haircut,Long,Low,None,Low,No,2,Returning,38
+TT0100,Hair Coloring,Short,Low,Short,Low,No,15,Returning,61
+TT0101,Hair Coloring,Short,Medium,None,High,No,9,Returning,79
+TT0102,Haircut + Beard,Short,Low,None,Low,No,19,Returning,32
+TT0103,Haircut,Long,High,None,High,Yes,4,Returning,53
+TT0104,Hair Coloring,Long,High,None,Medium,Yes,14,Returning,95
+TT0105,Facial,Short,Medium,Medium,Medium,No,4,Returning,37
+TT0106,Haircut + Beard,Long,Medium,None,Medium,No,11,Returning,51
+TT0107,Beard Trim,Short,Medium,Medium,Medium,No,10,Returning,21
+TT0108,Haircut,Medium,High,None,Medium,No,9,New,43
+TT0109,Haircut,Long,Medium,None,Low,No,14,New,36
+TT0110,Hair Coloring,Short,Low,None,High,Yes,17,Returning,90
+TT0111,Beard Trim,Short,Medium,Medium,Medium,No,7,Returning,15
+TT0112,Haircut,Medium,Medium,None,Low,Yes,17,Returning,35
+TT0113,Haircut,Medium,Low,Short,Medium,No,4,Returning,31
+TT0114,Beard Trim,Long,Medium,None,Medium,Yes,6,Returning,35
+TT0115,Haircut,Long,Low,Long,Medium,No,7,Returning,48
+TT0116,Facial,Short,High,None,Medium,No,20,New,40
+TT0117,Haircut + Beard,Short,Medium,Short,Low,No,3,New,50
+TT0118,Haircut + Beard,Long,Low,Medium,Medium,Yes,8,Returning,66
+TT0119,Beard Trim,Short,Low,None,Low,No,9,Returning,16
+TT0120,Haircut + Beard,Long,Low,None,Low,No,17,Returning,37
+TT0121,Haircut + Beard,Medium,Medium,Medium,Low,No,10,New,37
+TT0122,Haircut + Beard,Short,Low,None,Medium,No,20,Returning,43
+TT0123,Haircut,Long,Medium,None,Medium,No,15,Returning,36
+TT0124,Beard Trim,Short,Low,Short,Medium,No,15,Returning,11
+TT0125,Haircut,Medium,Medium,None,Low,No,16,New,36
+TT0126,Beard Trim,Medium,Medium,Long,Low,No,4,Returning,21
+TT0127,Haircut,Medium,Medium,Short,Medium,Yes,9,Returning,38
+TT0128,Haircut,Medium,Medium,Short,Low,Yes,12,Returning,36
+TT0129,Haircut,Medium,Low,None,Medium,No,5,New,31
+TT0130,Haircut + Beard,Long,Low,Medium,High,No,3,New,64
+TT0131,Haircut,Long,Low,Medium,Medium,No,3,New,50
+TT0132,Hair Coloring,Medium,High,None,High,No,16,Returning,92
+TT0133,Haircut + Beard,Short,High,Long,Low,No,14,Returning,50
+TT0134,Haircut,Medium,High,Short,Low,No,6,New,42
+TT0135,Haircut + Beard,Long,Medium,Medium,Medium,No,15,Returning,52
+TT0136,Haircut,Short,Medium,None,Medium,Yes,14,New,26
+TT0137,Hair Coloring,Medium,Medium,None,High,No,17,Returning,82
+TT0138,Beard Trim,Medium,High,Medium,Low,Yes,19,Returning,33
+TT0139,Facial,Short,High,Medium,Medium,No,18,New,39
+TT0140,Haircut,Medium,High,Short,Medium,No,4,New,40
+TT0141,Beard Trim,Medium,High,None,Medium,No,16,New,29
+TT0142,Beard Trim,Long,Medium,Medium,Low,Yes,8,New,45
+TT0143,Hair Coloring,Long,High,None,High,Yes,9,Returning,102
+TT0144,Beard Trim,Long,High,None,Low,No,13,New,25
+TT0145,Beard Trim,Medium,Medium,Short,High,No,13,New,32
+TT0146,Haircut,Short,High,None,Medium,No,9,Returning,34
+TT0147,Haircut,Medium,Low,None,Medium,No,20,Returning,28
+TT0148,Beard Trim,Long,High,None,Medium,No,4,New,42
+TT0149,Beard Trim,Medium,High,Long,High,No,2,Returning,37
+TT0150,Haircut,Long,Low,None,Low,No,1,Returning,34
+TT0151,Facial,Short,Medium,Medium,Low,Yes,17,Returning,44
+TT0152,Facial,Long,Low,Long,Medium,No,9,Returning,50
+TT0153,Haircut,Short,High,Medium,Medium,No,9,New,43
+TT0154,Beard Trim,Short,High,Short,Low,No,13,New,20
+TT0155,Haircut,Medium,Medium,Short,Low,No,9,Returning,32
+TT0156,Haircut + Beard,Short,High,Short,Medium,No,12,Returning,45
+TT0157,Haircut,Short,Low,Short,Low,Yes,2,Returning,33
+TT0158,Haircut + Beard,Short,Medium,Long,Low,Yes,4,New,52
+TT0159,Haircut + Beard,Medium,Medium,Medium,High,No,19,Returning,51
+TT0160,Facial,Long,Low,Short,Medium,Yes,10,New,63
+TT0161,Haircut,Short,Medium,None,High,No,4,Returning,41
+TT0162,Hair Coloring,Medium,Medium,Long,High,No,8,Returning,91
+TT0163,Haircut,Long,Medium,None,Low,No,7,Returning,34
+TT0164,Haircut,Short,Medium,Medium,Medium,No,6,New,25
+TT0165,Beard Trim,Short,High,None,Medium,No,6,Returning,20
+TT0166,Haircut,Long,Medium,Medium,Medium,Yes,15,Returning,51
+TT0167,Facial,Long,High,Medium,Low,No,3,Returning,50
+TT0168,Facial,Medium,Medium,Short,Low,Yes,7,Returning,46
+TT0169,Haircut,Long,Medium,None,Low,Yes,10,Returning,24
+TT0170,Hair Coloring,Short,Medium,Medium,Medium,Yes,11,New,90
+TT0171,Haircut,Medium,Medium,Short,High,No,18,New,43
+TT0172,Beard Trim,Medium,Medium,None,Medium,Yes,19,Returning,30
+TT0173,Haircut,Short,Medium,Short,Medium,No,6,New,39
+TT0174,Hair Coloring,Long,Low,Short,High,No,11,New,95
+TT0175,Haircut,Medium,Medium,Medium,Medium,No,1,Returning,38
+TT0176,Haircut,Long,Medium,None,Low,Yes,13,New,36
+TT0177,Beard Trim,Medium,Medium,Short,High,No,4,New,35
+TT0178,Hair Coloring,Medium,High,Long,Medium,No,2,New,92
+TT0179,Facial,Short,Medium,None,Low,Yes,14,New,34
+TT0180,Haircut + Beard,Short,High,Short,Medium,No,4,Returning,41
+TT0181,Facial,Long,High,Medium,High,Yes,10,Returning,75
+TT0182,Facial,Short,High,Long,Low,No,3,New,48
+TT0183,Beard Trim,Short,High,Short,Medium,No,15,Returning,21
+TT0184,Haircut,Short,Low,Medium,Low,No,16,Returning,20
+TT0185,Facial,Short,Medium,None,Low,No,12,Returning,24
+TT0186,Haircut + Beard,Long,Low,Short,Low,No,17,Returning,46
+TT0187,Haircut,Medium,High,Long,Medium,No,9,New,35
+TT0188,Haircut,Long,Medium,Long,High,No,4,Returning,50
+TT0189,Haircut + Beard,Short,Medium,Short,Low,Yes,4,Returning,45
+TT0190,Haircut,Medium,High,Short,Low,Yes,5,Returning,40
+TT0191,Hair Coloring,Medium,Low,Short,Low,No,5,Returning,74
+TT0192,Haircut,Medium,Medium,None,Low,No,7,New,23
+TT0193,Haircut,Long,Medium,Long,Medium,No,5,Returning,41
+TT0194,Facial,Long,Low,Medium,Medium,Yes,12,Returning,51
+TT0195,Haircut,Long,Medium,Short,Medium,Yes,3,Returning,43
+TT0196,Haircut,Short,High,None,Medium,No,13,Returning,35
+TT0197,Haircut + Beard,Short,Low,None,Medium,No,7,Returning,34
+TT0198,Facial,Medium,Medium,None,Low,Yes,14,Returning,45
+TT0199,Haircut,Short,Medium,Medium,Low,Yes,11,Returning,34
+TT0200,Haircut,Medium,Medium,Short,High,No,19,Returning,43
+TT0201,Facial,Medium,Low,None,Medium,Yes,9,Returning,47
+TT0202,Hair Coloring,Medium,High,Short,High,No,6,Returning,98
+TT0203,Beard Trim,Long,High,Long,High,No,12,Returning,42
+TT0204,Haircut,Medium,Low,None,Medium,Yes,14,Returning,38
+TT0205,Haircut,Short,Medium,Short,High,No,9,New,32
+TT0206,Haircut,Short,Medium,Short,Medium,No,12,New,19
+TT0207,Haircut,Medium,Medium,None,Low,Yes,10,New,40
+TT0208,Haircut + Beard,Medium,Medium,Short,Low,Yes,7,Returning,51
+TT0209,Haircut,Short,Low,Short,Low,No,7,New,29
+TT0210,Beard Trim,Medium,Low,None,Low,No,19,Returning,11
+TT0211,Haircut + Beard,Long,High,None,Medium,Yes,14,Returning,67
+TT0212,Haircut + Beard,Long,Medium,Medium,Medium,No,2,New,58
+TT0213,Haircut,Medium,High,None,Medium,Yes,20,Returning,43
+TT0214,Facial,Medium,Medium,Short,Medium,Yes,15,Returning,51
+TT0215,Haircut + Beard,Short,High,Short,Low,No,2,Returning,51
+TT0216,Haircut + Beard,Medium,Low,Medium,Medium,No,15,New,47
+TT0217,Haircut,Short,Low,Medium,Medium,Yes,12,Returning,33
+TT0218,Haircut,Medium,High,Medium,Low,Yes,19,Returning,31
+TT0219,Hair Coloring,Medium,High,Short,Low,No,10,Returning,88
+TT0220,Beard Trim,Short,Medium,Short,Medium,No,11,New,24
+TT0221,Haircut,Short,Medium,Short,Low,Yes,7,Returning,34
+TT0222,Beard Trim,Short,Medium,Short,High,No,7,Returning,42
+TT0223,Haircut + Beard,Long,Medium,Short,Medium,No,13,New,55
+TT0224,Hair Coloring,Medium,Low,None,Medium,Yes,17,Returning,79
+TT0225,Haircut,Short,High,Short,Low,Yes,18,New,35
+TT0226,Hair Coloring,Long,Medium,Short,High,Yes,16,Returning,95
+TT0227,Haircut,Medium,Medium,None,Medium,Yes,13,Returning,36
+TT0228,Beard Trim,Medium,Low,None,Low,No,11,New,17
+TT0229,Haircut + Beard,Long,Low,Medium,Medium,Yes,7,Returning,57
+TT0230,Haircut,Short,Medium,Short,Medium,No,16,Returning,20
+TT0231,Haircut,Short,Medium,Medium,Medium,No,7,Returning,41
+TT0232,Beard Trim,Medium,Medium,Short,Low,Yes,6,Returning,27
+TT0233,Hair Coloring,Short,Low,Medium,Medium,Yes,18,Returning,84
+TT0234,Haircut + Beard,Medium,High,Medium,Low,Yes,12,New,61
+TT0235,Hair Coloring,Short,Medium,None,Low,No,8,Returning,77
+TT0236,Facial,Short,High,Long,Low,Yes,18,Returning,49
+TT0237,Beard Trim,Short,Low,None,High,No,20,Returning,25
+TT0238,Facial,Medium,Medium,Short,Low,Yes,7,New,50
+TT0239,Haircut,Short,Medium,Medium,Medium,Yes,11,New,46
+TT0240,Haircut,Short,Medium,None,Medium,No,10,Returning,32
+TT0241,Facial,Long,Medium,Short,High,Yes,15,New,65
+TT0242,Facial,Short,Low,Short,Medium,No,20,New,38
+TT0243,Haircut,Medium,Medium,None,High,Yes,11,Returning,54
+TT0244,Beard Trim,Short,Medium,None,Low,Yes,16,New,20
+TT0245,Haircut + Beard,Medium,Medium,None,Low,Yes,12,New,53
+TT0246,Facial,Short,Low,None,Medium,No,18,New,41
+TT0247,Haircut + Beard,Medium,Medium,Short,Medium,No,9,Returning,43
+TT0248,Beard Trim,Short,Medium,Short,High,Yes,8,Returning,29
+TT0249,Haircut,Long,Medium,Short,High,Yes,9,Returning,50
+TT0250,Beard Trim,Long,Medium,Medium,Medium,Yes,20,New,37
+TT0251,Haircut + Beard,Short,Medium,None,High,No,13,New,44
+TT0252,Facial,Short,High,None,Medium,No,4,Returning,40
+TT0253,Beard Trim,Short,Medium,Medium,Low,Yes,1,Returning,28
+TT0254,Haircut,Medium,Medium,Long,Medium,Yes,11,Returning,51
+TT0255,Haircut,Short,High,Short,Low,No,17,Returning,28
+TT0256,Haircut + Beard,Long,Medium,None,High,No,10,Returning,45
+TT0257,Facial,Long,High,Medium,Low,No,12,Returning,51
+TT0258,Haircut,Long,High,Long,Medium,No,16,Returning,42
+TT0259,Haircut,Medium,Low,Short,Medium,No,11,New,36
+TT0260,Haircut + Beard,Long,Medium,None,Low,No,19,Returning,44
+TT0261,Haircut,Short,Medium,None,Low,No,13,Returning,21
+TT0262,Facial,Medium,High,Short,Medium,Yes,15,Returning,50
+TT0263,Haircut,Short,Medium,Long,Low,Yes,16,Returning,35
+TT0264,Haircut,Long,Low,Medium,Medium,Yes,13,Returning,51
+TT0265,Hair Coloring,Medium,Medium,None,Medium,No,2,Returning,85
+TT0266,Haircut,Long,Low,Short,Low,No,9,New,40
+TT0267,Haircut,Short,High,Medium,Low,No,3,Returning,37
+TT0268,Haircut,Long,Medium,Short,Medium,No,11,Returning,40
+TT0269,Haircut,Medium,Medium,Medium,High,No,3,New,40
+TT0270,Haircut,Medium,High,Short,Low,Yes,11,Returning,43
+TT0271,Haircut,Long,Medium,None,High,Yes,7,Returning,50
+TT0272,Haircut,Medium,Medium,Short,Medium,Yes,1,Returning,46
+TT0273,Haircut,Medium,High,Short,Medium,No,3,New,37
+TT0274,Haircut + Beard,Medium,High,Long,Medium,No,11,Returning,48
+TT0275,Haircut + Beard,Short,High,Short,Medium,No,2,New,61
+TT0276,Beard Trim,Short,Low,Short,High,No,18,New,21
+TT0277,Haircut,Short,Medium,Short,Medium,Yes,16,Returning,39
+TT0278,Beard Trim,Short,Low,Short,Medium,No,15,New,19
+TT0279,Facial,Long,High,Short,Medium,Yes,4,New,61
+TT0280,Facial,Medium,Medium,Medium,Low,No,16,Returning,39
+TT0281,Haircut,Medium,Medium,Short,Medium,Yes,13,Returning,32
+TT0282,Haircut,Medium,Low,Short,Low,Yes,8,Returning,33
+TT0283,Haircut,Medium,Medium,Short,Low,No,1,Returning,25
+TT0284,Haircut,Medium,Medium,None,Low,Yes,11,Returning,32
+TT0285,Beard Trim,Long,Low,Medium,Low,No,16,Returning,26
+TT0286,Beard Trim,Long,Low,Short,Medium,Yes,1,Returning,37
+TT0287,Haircut,Medium,High,Short,Medium,Yes,2,Returning,38
+TT0288,Haircut,Short,High,Medium,Medium,Yes,8,Returning,46
+TT0289,Beard Trim,Medium,Low,Medium,Low,Yes,11,New,29
+TT0290,Haircut,Medium,Medium,Medium,Medium,No,10,Returning,33
+TT0291,Facial,Medium,High,Short,Medium,Yes,9,Returning,57
+TT0292,Haircut,Medium,Medium,None,Medium,Yes,6,New,44
+TT0293,Hair Coloring,Medium,Medium,Medium,Medium,No,2,New,86
+TT0294,Haircut,Short,Medium,Short,Medium,No,1,Returning,41
+TT0295,Facial,Short,Medium,Short,Medium,Yes,2,Returning,48
+TT0296,Hair Coloring,Medium,Low,Short,High,No,14,New,90
+TT0297,Hair Coloring,Short,Medium,Medium,Medium,No,16,New,82
+TT0298,Facial,Short,Low,None,Medium,Yes,9,Returning,50
+TT0299,Facial,Medium,Low,Short,Medium,Yes,2,Returning,48
+TT0300,Haircut + Beard,Medium,Medium,None,Low,No,9,Returning,33
+TT0301,Facial,Short,High,Short,High,No,20,Returning,43
+TT0302,Haircut,Medium,High,Medium,Medium,No,5,New,51
+TT0303,Beard Trim,Long,Medium,Short,Low,Yes,10,New,38
+TT0304,Beard Trim,Short,Medium,Short,High,No,11,Returning,24
+TT0305,Facial,Long,Medium,Long,Medium,No,7,Returning,61
+TT0306,Beard Trim,Long,Medium,Medium,Low,Yes,9,Returning,37
+TT0307,Beard Trim,Medium,Medium,Short,Low,Yes,10,Returning,23
+TT0308,Haircut + Beard,Medium,Medium,Long,Low,Yes,10,Returning,53
+TT0309,Haircut,Short,Medium,Short,Medium,No,15,Returning,28
+TT0310,Haircut,Long,High,Medium,Low,Yes,12,Returning,41
+TT0311,Beard Trim,Medium,High,None,High,No,2,Returning,35
+TT0312,Beard Trim,Long,Low,None,High,No,1,Returning,37
+TT0313,Haircut,Medium,Medium,None,Medium,Yes,9,Returning,31
+TT0314,Haircut,Short,Low,None,Medium,Yes,19,Returning,31
+TT0315,Haircut,Short,Medium,Short,Low,No,1,Returning,25
+TT0316,Haircut,Medium,Medium,None,Low,Yes,2,New,46
+TT0317,Haircut,Medium,Low,Short,Medium,No,14,New,24
+TT0318,Haircut + Beard,Short,High,None,Low,No,10,Returning,38
+TT0319,Haircut,Medium,Medium,None,Low,No,5,Returning,27
+TT0320,Hair Coloring,Long,High,Long,Medium,No,5,Returning,103
+TT0321,Hair Coloring,Medium,Low,Medium,Low,Yes,14,Returning,84
+TT0322,Beard Trim,Medium,Low,Long,Medium,Yes,11,New,46
+TT0323,Haircut,Short,Medium,Short,Medium,Yes,13,Returning,38
+TT0324,Beard Trim,Long,Low,None,High,No,6,Returning,32
+TT0325,Facial,Short,Medium,Short,Medium,No,11,Returning,39
+TT0326,Haircut + Beard,Long,High,Short,High,No,18,Returning,57
+TT0327,Facial,Medium,Low,None,Medium,Yes,7,New,57
+TT0328,Beard Trim,Medium,Low,Medium,High,No,8,Returning,25
+TT0329,Haircut + Beard,Short,Medium,Short,Medium,No,4,Returning,39
+TT0330,Haircut,Short,Medium,Medium,Low,Yes,13,Returning,35
+TT0331,Haircut + Beard,Long,Medium,Short,High,Yes,1,Returning,74
+TT0332,Haircut,Medium,Medium,Short,Low,No,5,New,22
+TT0333,Haircut + Beard,Medium,High,None,Low,No,15,Returning,49
+TT0334,Facial,Long,Low,Long,Low,Yes,1,Returning,56
+TT0335,Haircut,Long,Medium,Short,Medium,No,20,Returning,26
+TT0336,Haircut + Beard,Long,Medium,None,Medium,No,9,Returning,36
+TT0337,Haircut,Short,High,None,Medium,Yes,8,New,36
+TT0338,Haircut + Beard,Medium,Medium,Short,High,No,11,New,56
+TT0339,Haircut,Long,Medium,Long,Low,No,13,New,41
+TT0340,Hair Coloring,Medium,Low,Long,Medium,No,10,New,94
+TT0341,Haircut,Short,Low,Medium,Medium,No,18,Returning,25
+TT0342,Hair Coloring,Long,Low,Long,High,No,20,Returning,91
+TT0343,Facial,Medium,Medium,Medium,Low,No,5,New,44
+TT0344,Haircut + Beard,Medium,Medium,None,Low,No,15,Returning,39
+TT0345,Facial,Long,Medium,Short,Medium,No,7,Returning,50
+TT0346,Facial,Medium,Low,None,Medium,Yes,20,Returning,42
+TT0347,Hair Coloring,Medium,High,None,Medium,Yes,6,New,102
+TT0348,Haircut,Medium,High,Short,Medium,No,6,Returning,34
+TT0349,Haircut + Beard,Medium,Low,None,Medium,No,15,New,41
+TT0350,Haircut,Short,Low,Long,Medium,Yes,16,Returning,35
+TT0351,Haircut + Beard,Long,Low,Long,Low,Yes,3,New,68
+TT0352,Haircut,Long,High,Short,Low,Yes,12,Returning,41
+TT0353,Beard Trim,Short,Low,Medium,Low,No,7,Returning,12
+TT0354,Beard Trim,Short,Medium,Short,Medium,No,13,New,26
+TT0355,Beard Trim,Long,Medium,None,Medium,No,12,New,42
+TT0356,Beard Trim,Short,High,None,Medium,Yes,20,Returning,28
+TT0357,Facial,Medium,Medium,None,Medium,No,19,Returning,47
+TT0358,Facial,Medium,Medium,None,Medium,No,14,Returning,46
+TT0359,Beard Trim,Medium,High,None,Medium,No,14,New,25
+TT0360,Haircut + Beard,Short,Low,None,Medium,No,18,New,42
+TT0361,Hair Coloring,Medium,High,None,Medium,No,4,Returning,81
+TT0362,Haircut,Medium,Low,Long,Medium,No,15,Returning,34
+TT0363,Haircut,Medium,Medium,None,Medium,No,16,New,32
+TT0364,Haircut,Short,High,None,Medium,Yes,3,Returning,39
+TT0365,Haircut + Beard,Medium,Medium,Short,Medium,Yes,18,Returning,47
+TT0366,Beard Trim,Medium,Medium,Short,Medium,No,14,New,24
+TT0367,Facial,Short,Medium,Short,Medium,Yes,7,New,53
+TT0368,Haircut + Beard,Short,Medium,None,Medium,Yes,10,New,52
+TT0369,Haircut,Short,Medium,Short,Low,No,10,Returning,14
+TT0370,Facial,Short,Medium,Short,Medium,No,19,Returning,33
+TT0371,Facial,Short,Medium,Medium,High,No,20,Returning,39
+TT0372,Haircut,Long,Medium,Short,Low,No,17,New,36
+TT0373,Haircut,Medium,Medium,Short,High,No,14,Returning,41
+TT0374,Haircut,Long,Medium,Short,Low,No,3,Returning,36
+TT0375,Haircut,Long,Medium,None,Medium,No,19,Returning,32
+TT0376,Haircut,Short,Low,Short,Medium,No,3,Returning,30
+TT0377,Hair Coloring,Medium,High,None,Low,No,4,New,84
+TT0378,Beard Trim,Long,Medium,None,High,No,2,Returning,32
+TT0379,Beard Trim,Medium,Low,Medium,Medium,Yes,19,Returning,32
+TT0380,Haircut + Beard,Medium,Medium,None,High,No,10,Returning,57
+TT0381,Beard Trim,Medium,High,None,Low,No,5,New,31
+TT0382,Hair Coloring,Short,Low,Medium,High,No,2,Returning,86
+TT0383,Facial,Medium,Low,Short,High,Yes,9,Returning,61
+TT0384,Beard Trim,Long,Low,Medium,Medium,Yes,15,Returning,31
+TT0385,Haircut,Long,Low,Long,Low,No,20,Returning,38
+TT0386,Hair Coloring,Short,High,Long,Medium,No,12,Returning,84
+TT0387,Haircut + Beard,Medium,High,Short,Medium,No,13,New,50
+TT0388,Hair Coloring,Short,Low,None,High,No,17,Returning,70
+TT0389,Haircut,Long,Medium,Short,Medium,Yes,19,Returning,41
+TT0390,Facial,Short,Low,Short,Low,No,6,Returning,33
+TT0391,Haircut + Beard,Long,Medium,Short,Low,Yes,20,New,53
+TT0392,Haircut,Long,High,None,Medium,No,11,New,53
+TT0393,Haircut + Beard,Short,Medium,None,High,No,19,Returning,41
+TT0394,Haircut + Beard,Short,Low,None,Low,Yes,3,New,45
+TT0395,Haircut,Long,Medium,None,Medium,No,2,Returning,36
+TT0396,Beard Trim,Short,High,None,High,Yes,18,Returning,31
+TT0397,Facial,Medium,Medium,Long,Low,No,14,New,51
+TT0398,Haircut,Long,Low,None,Low,Yes,4,Returning,47
+TT0399,Beard Trim,Medium,Low,Short,Medium,No,18,Returning,15
+TT0400,Beard Trim,Medium,Medium,Long,Medium,No,3,Returning,27
+TT0401,Haircut,Medium,Medium,Short,Low,Yes,14,Returning,27
+TT0402,Hair Coloring,Short,High,Short,High,No,5,New,101
+TT0403,Facial,Long,High,Medium,Medium,No,2,New,66
+TT0404,Haircut,Short,High,None,High,Yes,17,Returning,43
+TT0405,Hair Coloring,Short,High,Short,High,No,17,Returning,80
+TT0406,Facial,Short,Low,Medium,High,Yes,3,Returning,49
+TT0407,Haircut,Long,Medium,Medium,Medium,No,2,Returning,44
+TT0408,Facial,Short,Medium,Medium,Low,No,13,New,42
+TT0409,Haircut,Long,Medium,Long,Medium,No,1,Returning,36
+TT0410,Hair Coloring,Medium,High,Short,Low,No,15,New,81
+TT0411,Haircut + Beard,Long,Medium,Medium,Medium,Yes,19,New,71
+TT0412,Haircut + Beard,Long,High,Short,Low,No,16,Returning,46
+TT0413,Haircut,Long,Medium,Medium,Medium,No,5,Returning,50
+TT0414,Facial,Long,Medium,Medium,Low,No,4,Returning,51
+TT0415,Haircut,Short,Medium,Medium,Low,No,14,Returning,20
+TT0416,Haircut,Long,Low,Long,Low,No,2,Returning,38
+TT0417,Haircut,Medium,Low,None,Medium,Yes,11,Returning,37
+TT0418,Facial,Medium,Medium,Medium,Medium,Yes,9,Returning,48
+TT0419,Haircut,Long,Low,None,Low,Yes,15,Returning,31
+TT0420,Hair Coloring,Long,High,Short,High,No,5,Returning,107
+TT0421,Haircut + Beard,Medium,Low,Medium,High,No,16,Returning,47
+TT0422,Haircut,Medium,Low,Medium,Medium,No,14,New,41
+TT0423,Haircut,Medium,High,Short,Medium,Yes,5,New,46
+TT0424,Haircut,Medium,Low,Short,Medium,No,8,Returning,31
+TT0425,Haircut + Beard,Medium,High,None,Low,No,2,Returning,49
+TT0426,Facial,Medium,Medium,None,Medium,No,9,Returning,40
+TT0427,Haircut,Short,Low,None,Low,Yes,6,New,37
+TT0428,Facial,Short,Medium,Long,High,Yes,3,Returning,51
+TT0429,Haircut,Long,Medium,None,High,Yes,12,Returning,53
+TT0430,Facial,Medium,High,Long,High,No,12,New,49
+TT0431,Hair Coloring,Long,High,None,Medium,Yes,2,Returning,99
+TT0432,Facial,Medium,Medium,Medium,Medium,No,4,Returning,52
+TT0433,Haircut + Beard,Short,Medium,Short,High,No,2,Returning,54
+TT0434,Facial,Short,Medium,Medium,Low,No,14,New,33
+TT0435,Haircut,Short,Medium,Short,Low,No,7,Returning,19
+TT0436,Haircut,Long,High,Medium,Medium,No,2,New,47
+TT0437,Haircut,Short,Medium,Long,Medium,No,4,Returning,38
+TT0438,Beard Trim,Medium,Medium,Short,Medium,No,20,Returning,11
+TT0439,Haircut + Beard,Long,Medium,None,Low,Yes,6,Returning,54
+TT0440,Haircut + Beard,Long,High,None,Medium,Yes,14,New,65
+TT0441,Facial,Short,High,Medium,Low,Yes,10,Returning,45
+TT0442,Haircut,Short,Low,Short,Low,No,4,New,30
+TT0443,Haircut + Beard,Short,Low,Short,Low,No,7,Returning,37
+TT0444,Haircut,Short,Medium,Short,Medium,Yes,1,Returning,36
+TT0445,Haircut,Short,Medium,Short,High,No,15,Returning,24
+TT0446,Haircut + Beard,Medium,Medium,Medium,Medium,No,7,Returning,50
+TT0447,Hair Coloring,Long,Low,Medium,Medium,No,10,Returning,84
+TT0448,Haircut + Beard,Medium,Medium,Medium,Medium,Yes,4,Returning,55
+TT0449,Haircut,Medium,Medium,Medium,Medium,No,17,Returning,36
+TT0450,Haircut + Beard,Short,Medium,Long,High,Yes,5,Returning,70
+TT0451,Haircut,Long,Medium,Short,Medium,No,12,New,41
+TT0452,Facial,Medium,Medium,Long,Medium,No,18,Returning,50
+TT0453,Haircut + Beard,Long,Medium,None,Low,No,15,New,41
+TT0454,Haircut,Long,High,Short,Low,No,13,Returning,36
+TT0455,Haircut,Short,Medium,Medium,High,No,18,New,40
+TT0456,Haircut,Short,Medium,Short,Medium,No,4,New,41
+TT0457,Hair Coloring,Short,Medium,None,High,No,20,Returning,81
+TT0458,Beard Trim,Medium,Low,Short,High,No,12,New,30
+TT0459,Facial,Long,Medium,Short,Low,Yes,9,Returning,55
+TT0460,Haircut + Beard,Medium,Medium,Long,Medium,No,6,Returning,52
+TT0461,Beard Trim,Long,High,Short,Medium,No,15,New,27
+TT0462,Haircut,Medium,Medium,None,Medium,No,20,New,48
+TT0463,Hair Coloring,Short,Low,Short,Low,No,14,Returning,65
+TT0464,Haircut,Short,Medium,Short,Low,No,1,New,30
+TT0465,Beard Trim,Medium,Low,None,Medium,Yes,10,New,33
+TT0466,Haircut + Beard,Medium,Medium,Short,Medium,No,15,New,49
+TT0467,Haircut + Beard,Medium,High,Short,Medium,Yes,8,Returning,55
+TT0468,Hair Coloring,Short,Medium,None,Medium,No,16,Returning,76
+TT0469,Haircut,Medium,Medium,Short,Medium,No,15,New,34
+TT0470,Beard Trim,Short,Medium,Short,High,Yes,2,Returning,30
+TT0471,Beard Trim,Long,Medium,Medium,Medium,No,12,Returning,41
+TT0472,Beard Trim,Short,High,Short,Medium,No,4,New,27
+TT0473,Haircut,Short,Medium,None,Medium,No,10,Returning,31
+TT0474,Haircut,Medium,Medium,Long,Medium,Yes,8,Returning,45
+TT0475,Haircut,Medium,Medium,Short,Medium,Yes,17,Returning,36
+TT0476,Haircut,Medium,Low,None,Medium,No,18,Returning,26
+TT0477,Beard Trim,Medium,Low,Medium,High,Yes,10,Returning,30
+TT0478,Haircut + Beard,Long,Low,None,High,No,11,New,58
+TT0479,Haircut + Beard,Medium,Medium,Medium,High,No,13,Returning,52
+TT0480,Beard Trim,Medium,High,Medium,Medium,Yes,14,Returning,40
+TT0481,Beard Trim,Medium,Medium,Long,Medium,No,13,Returning,21
+TT0482,Haircut,Short,Low,Long,Medium,No,16,New,32
+TT0483,Haircut + Beard,Medium,Low,None,High,Yes,20,Returning,51
+TT0484,Haircut,Short,Medium,Medium,Medium,No,17,New,41
+TT0485,Haircut,Medium,High,None,Medium,Yes,3,Returning,41
+TT0486,Beard Trim,Short,Medium,Short,Medium,No,10,Returning,21
+TT0487,Beard Trim,Long,High,Short,Medium,No,10,Returning,35
+TT0488,Haircut,Medium,High,None,Medium,No,11,New,38
+TT0489,Beard Trim,Long,Low,None,Low,Yes,11,Returning,20
+TT0490,Beard Trim,Medium,Medium,None,Medium,No,15,New,18
+TT0491,Haircut + Beard,Short,High,None,Medium,No,9,New,53
+TT0492,Haircut + Beard,Long,Medium,None,Low,Yes,6,Returning,48
+TT0493,Haircut + Beard,Medium,Low,Long,High,Yes,10,Returning,65
+TT0494,Haircut,Long,High,Short,Medium,Yes,18,Returning,46
+TT0495,Facial,Medium,High,Medium,Low,No,7,Returning,46
+TT0496,Beard Trim,Medium,Medium,Medium,High,No,1,New,42
+TT0497,Beard Trim,Long,Medium,Medium,Medium,No,20,New,28
+TT0498,Haircut + Beard,Medium,Low,Short,Medium,Yes,4,Returning,48
+TT0499,Haircut,Short,High,Medium,Medium,Yes,13,Returning,44
+TT0500,Beard Trim,Medium,Medium,Medium,High,Yes,17,Returning,35
+TT0501,Haircut + Beard,Medium,Low,Medium,Medium,No,6,New,38
+TT0502,Facial,Long,Medium,Long,Medium,No,7,Returning,58
+TT0503,Hair Coloring,Medium,High,Short,Low,No,6,Returning,77
+TT0504,Beard Trim,Medium,High,Short,Medium,No,3,New,34
+TT0505,Beard Trim,Long,Medium,Long,Medium,No,4,New,47
+TT0506,Facial,Medium,Low,Short,Medium,No,4,Returning,43
+TT0507,Haircut,Medium,High,Medium,Medium,Yes,10,Returning,50
+TT0508,Facial,Medium,High,None,High,Yes,11,Returning,60
+TT0509,Beard Trim,Short,Medium,None,Medium,Yes,1,Returning,37
+TT0510,Haircut,Medium,Medium,Short,Low,Yes,17,Returning,27
+TT0511,Haircut,Short,Medium,None,High,Yes,14,New,45
+TT0512,Facial,Short,Medium,Long,Medium,Yes,2,Returning,58
+TT0513,Haircut,Medium,Low,None,High,No,17,New,39
+TT0514,Haircut,Medium,Low,Medium,High,No,1,Returning,49
+TT0515,Haircut,Long,Low,None,High,No,12,New,44
+TT0516,Haircut,Short,High,Long,Medium,No,10,New,52
+TT0517,Haircut,Short,Low,Short,Medium,No,11,Returning,37
+TT0518,Haircut + Beard,Long,Low,None,Low,Yes,20,Returning,50
+TT0519,Haircut,Short,Medium,None,Medium,Yes,19,Returning,37
+TT0520,Facial,Short,Low,Short,Medium,Yes,6,Returning,51
+TT0521,Facial,Short,Low,Long,Medium,Yes,12,Returning,43
+TT0522,Haircut,Medium,Medium,Long,High,Yes,20,Returning,44
+TT0523,Haircut,Long,Medium,None,Low,No,15,Returning,37
+TT0524,Haircut + Beard,Long,Medium,Short,Medium,Yes,18,Returning,57
+TT0525,Haircut,Medium,High,None,Medium,Yes,9,Returning,42
+TT0526,Haircut,Short,Low,Short,Medium,Yes,6,Returning,35
+TT0527,Hair Coloring,Medium,High,Short,Low,No,11,Returning,68
+TT0528,Hair Coloring,Medium,High,None,Low,No,17,Returning,78
+TT0529,Facial,Short,High,Short,High,Yes,19,Returning,50
+TT0530,Haircut,Short,Medium,Long,Medium,No,14,New,42
+TT0531,Haircut + Beard,Short,Medium,None,Low,No,15,New,44
+TT0532,Haircut + Beard,Short,Medium,None,Low,No,11,Returning,39
+TT0533,Beard Trim,Medium,Medium,None,Medium,No,7,New,30
+TT0534,Haircut + Beard,Medium,Low,None,Low,No,9,Returning,31
+TT0535,Haircut,Short,High,None,Medium,Yes,10,Returning,41
+TT0536,Haircut,Medium,Medium,Short,Medium,Yes,17,New,45
+TT0537,Beard Trim,Long,High,None,Low,Yes,12,Returning,38
+TT0538,Haircut,Medium,Medium,Medium,Medium,No,16,New,48
+TT0539,Haircut,Long,Low,Long,Low,No,1,Returning,31
+TT0540,Facial,Medium,Medium,Long,Medium,No,16,Returning,45
+TT0541,Hair Coloring,Long,Medium,Medium,High,No,11,New,97
+TT0542,Beard Trim,Short,Medium,None,Medium,No,20,New,22
+TT0543,Facial,Medium,Medium,None,High,Yes,10,Returning,57
+TT0544,Hair Coloring,Short,Low,None,Low,Yes,10,Returning,77
+TT0545,Haircut,Medium,Medium,Long,Medium,No,3,New,50
+TT0546,Beard Trim,Medium,Medium,Long,Medium,No,17,Returning,21
+TT0547,Beard Trim,Short,High,Short,Medium,No,15,New,19
+TT0548,Haircut,Long,Low,None,High,No,18,Returning,36
+TT0549,Haircut + Beard,Short,Medium,Short,Low,No,2,New,41
+TT0550,Beard Trim,Short,Medium,None,High,No,5,Returning,21
+TT0551,Beard Trim,Short,Medium,Long,High,No,18,New,34
+TT0552,Haircut,Medium,Medium,None,Medium,No,1,Returning,35
+TT0553,Haircut,Short,Medium,Short,Medium,Yes,11,Returning,31
+TT0554,Hair Coloring,Medium,High,Short,Medium,No,9,New,94
+TT0555,Haircut,Short,Medium,None,Low,No,19,Returning,21
+TT0556,Haircut,Long,Medium,Short,Medium,No,18,New,45
+TT0557,Haircut,Long,Low,Medium,Medium,No,18,Returning,36
+TT0558,Beard Trim,Medium,Medium,None,High,No,6,Returning,31
+TT0559,Haircut + Beard,Medium,Medium,Short,Medium,Yes,12,Returning,49
+TT0560,Beard Trim,Long,Low,Short,Medium,Yes,15,New,35
+TT0561,Haircut,Long,Medium,None,Medium,No,20,New,43
+TT0562,Haircut,Medium,Medium,None,Medium,No,1,New,38
+TT0563,Facial,Long,Medium,None,High,No,20,Returning,55
+TT0564,Haircut + Beard,Long,Medium,None,Low,No,8,New,46
+TT0565,Haircut + Beard,Long,Medium,Short,High,No,3,Returning,64
+TT0566,Haircut + Beard,Medium,Medium,Medium,High,Yes,13,Returning,59
+TT0567,Facial,Short,Low,Medium,High,No,16,Returning,49
+TT0568,Haircut,Short,Low,Long,Medium,No,3,Returning,35
+TT0569,Haircut,Medium,Medium,Short,High,No,1,New,54
+TT0570,Beard Trim,Medium,High,Medium,Medium,No,18,Returning,21
+TT0571,Haircut,Medium,Low,Medium,Medium,Yes,19,New,35
+TT0572,Facial,Medium,Medium,None,Low,No,4,Returning,37
+TT0573,Beard Trim,Medium,High,None,Medium,No,19,Returning,17
+TT0574,Facial,Long,High,Short,Medium,No,19,Returning,42
+TT0575,Facial,Short,Medium,Medium,Medium,Yes,20,Returning,50
+TT0576,Beard Trim,Short,Medium,Short,Medium,No,5,New,24
+TT0577,Hair Coloring,Long,Medium,None,High,No,12,Returning,91
+TT0578,Haircut + Beard,Long,High,Long,Low,No,20,New,55
+TT0579,Facial,Long,Low,None,Medium,No,19,Returning,41
+TT0580,Haircut,Long,High,Long,Low,Yes,13,Returning,56
+TT0581,Beard Trim,Long,Low,Medium,Medium,No,4,New,31
+TT0582,Beard Trim,Short,High,Medium,Medium,No,2,Returning,21
+TT0583,Haircut,Medium,Low,Medium,Medium,No,6,Returning,39
+TT0584,Beard Trim,Short,Low,None,Medium,No,2,New,22
+TT0585,Hair Coloring,Medium,Low,Short,High,No,4,Returning,100
+TT0586,Haircut + Beard,Long,Medium,Medium,High,Yes,2,Returning,68
+TT0587,Haircut,Short,Medium,Medium,Medium,No,16,Returning,34
+TT0588,Haircut,Medium,Low,None,Medium,No,12,Returning,35
+TT0589,Haircut,Short,Medium,None,Medium,No,11,Returning,26
+TT0590,Haircut,Short,Medium,None,Low,Yes,17,New,29
+TT0591,Hair Coloring,Short,High,Short,High,No,9,Returning,93
+TT0592,Beard Trim,Short,High,Short,Medium,No,9,Returning,25
+TT0593,Haircut,Long,Medium,Medium,High,No,5,Returning,42
+TT0594,Haircut + Beard,Medium,Low,Medium,Low,No,9,Returning,36
+TT0595,Haircut,Long,Medium,Medium,Low,Yes,4,Returning,32
+TT0596,Haircut,Medium,High,None,High,No,12,Returning,45
+TT0597,Haircut + Beard,Short,Low,Short,High,No,20,Returning,43
+TT0598,Haircut + Beard,Short,Medium,None,High,No,11,Returning,47
+TT0599,Hair Coloring,Long,High,None,High,No,6,Returning,90
+TT0600,Haircut + Beard,Short,High,None,Medium,No,14,Returning,38
+TT0601,Beard Trim,Long,Medium,None,Low,No,17,Returning,18
+TT0602,Facial,Short,Medium,None,Low,No,10,New,34
+TT0603,Hair Coloring,Medium,Medium,Short,Medium,Yes,6,New,95
+TT0604,Haircut + Beard,Long,High,None,Low,Yes,15,Returning,57
+TT0605,Hair Coloring,Short,Low,None,High,No,4,Returning,97
+TT0606,Facial,Short,Low,None,Low,Yes,20,Returning,37
+TT0607,Facial,Long,Medium,Short,Low,Yes,7,New,60
+TT0608,Haircut,Short,Low,Short,Low,No,8,New,22
+TT0609,Haircut + Beard,Medium,Medium,None,Low,No,15,Returning,30
+TT0610,Beard Trim,Medium,Medium,None,Low,No,1,Returning,19
+TT0611,Beard Trim,Short,High,Long,Medium,No,5,New,25
+TT0612,Haircut + Beard,Long,High,Short,Medium,No,3,Returning,56
+TT0613,Hair Coloring,Long,Medium,Medium,Medium,No,8,Returning,87
+TT0614,Hair Coloring,Medium,High,Short,High,Yes,12,Returning,89
+TT0615,Haircut,Long,Medium,Medium,Medium,No,4,New,55
+TT0616,Haircut + Beard,Short,Medium,Long,Medium,Yes,7,Returning,53
+TT0617,Haircut + Beard,Short,Low,Short,Medium,No,16,Returning,30
+TT0618,Haircut,Medium,High,Medium,Low,No,19,Returning,36
+TT0619,Haircut,Long,High,None,Medium,Yes,1,New,51
+TT0620,Haircut,Short,High,Medium,High,No,13,Returning,46
+TT0621,Facial,Short,High,Short,Medium,No,1,Returning,41
+TT0622,Beard Trim,Medium,High,None,Low,No,11,Returning,17
+TT0623,Hair Coloring,Long,Low,Long,Medium,Yes,18,Returning,98
+TT0624,Beard Trim,Short,High,Medium,High,No,16,Returning,33
+TT0625,Hair Coloring,Medium,Medium,None,Medium,No,5,Returning,88
+TT0626,Beard Trim,Medium,Medium,Long,Medium,No,6,New,33
+TT0627,Facial,Medium,Medium,None,High,No,16,Returning,50
+TT0628,Haircut,Short,Medium,Short,Medium,No,17,New,34
+TT0629,Beard Trim,Short,Medium,Medium,Medium,No,6,Returning,24
+TT0630,Facial,Medium,Low,None,Low,No,1,Returning,38
+TT0631,Hair Coloring,Medium,Low,Short,Low,No,9,New,73
+TT0632,Facial,Long,Medium,Medium,High,No,13,New,63
+TT0633,Haircut,Medium,High,None,Medium,Yes,9,New,47
+TT0634,Haircut,Medium,Medium,Short,Medium,No,19,Returning,29
+TT0635,Haircut,Long,Medium,None,Medium,No,17,Returning,42
+TT0636,Haircut,Medium,Medium,Medium,Low,No,16,Returning,22
+TT0637,Haircut + Beard,Medium,Medium,None,High,Yes,1,New,75
+TT0638,Haircut + Beard,Long,Low,None,Low,No,18,New,46
+TT0639,Facial,Short,High,Medium,High,No,16,New,55
+TT0640,Facial,Medium,Low,None,Medium,No,8,Returning,39
+TT0641,Haircut + Beard,Long,Medium,Short,Low,No,12,Returning,36
+TT0642,Facial,Short,High,Medium,Low,No,17,Returning,37
+TT0643,Haircut,Medium,Medium,Medium,High,No,19,Returning,42
+TT0644,Haircut,Short,High,None,Low,No,12,Returning,29
+TT0645,Haircut + Beard,Short,Medium,Medium,Low,No,1,Returning,42
+TT0646,Facial,Medium,High,Medium,Medium,Yes,13,Returning,43
+TT0647,Haircut,Short,Medium,None,Medium,Yes,14,Returning,26
+TT0648,Beard Trim,Long,High,Medium,Medium,No,2,Returning,47
+TT0649,Haircut + Beard,Long,Medium,Medium,Low,Yes,17,Returning,48
+TT0650,Haircut,Long,High,Short,High,Yes,5,New,67
+TT0651,Beard Trim,Short,High,Short,Low,Yes,18,Returning,17
+TT0652,Facial,Short,Medium,Medium,Low,Yes,12,New,46
+TT0653,Haircut + Beard,Short,High,Long,Medium,No,7,Returning,55
+TT0654,Haircut,Short,Medium,Short,Low,No,2,New,26
+TT0655,Facial,Long,Medium,Medium,Medium,No,1,New,66
+TT0656,Haircut,Medium,High,Medium,Low,No,15,New,36
+TT0657,Facial,Short,Medium,Medium,Low,No,8,Returning,40
+TT0658,Haircut,Long,Medium,Long,Medium,No,17,Returning,40
+TT0659,Haircut + Beard,Medium,Low,None,High,No,5,Returning,56
+TT0660,Beard Trim,Short,Low,None,Low,Yes,19,Returning,25
+TT0661,Haircut,Short,High,Short,Low,Yes,19,Returning,31
+TT0662,Facial,Medium,Medium,Short,High,No,3,Returning,61
+TT0663,Haircut,Long,Medium,Short,High,No,13,New,44
+TT0664,Haircut,Short,Low,Medium,Medium,No,19,Returning,32
+TT0665,Haircut,Long,Medium,Long,Low,Yes,7,Returning,49
+TT0666,Haircut + Beard,Long,High,Short,Medium,Yes,2,Returning,58
+TT0667,Facial,Long,High,Medium,Low,No,18,Returning,48
+TT0668,Hair Coloring,Short,Low,None,Low,No,10,Returning,72
+TT0669,Haircut,Short,Medium,Short,Medium,No,1,New,31
+TT0670,Beard Trim,Long,Medium,None,Medium,Yes,17,Returning,35
+TT0671,Haircut,Short,Medium,Short,Medium,Yes,14,Returning,35
+TT0672,Beard Trim,Medium,Medium,Short,Medium,No,2,Returning,25
+TT0673,Hair Coloring,Long,Medium,Medium,Low,No,6,Returning,87
+TT0674,Haircut + Beard,Short,Medium,Short,Medium,No,1,New,48
+TT0675,Haircut + Beard,Long,Medium,Short,Medium,No,20,New,51
+TT0676,Beard Trim,Long,Medium,None,High,Yes,1,New,49
+TT0677,Hair Coloring,Medium,Medium,None,Medium,Yes,16,New,89
+TT0678,Beard Trim,Medium,High,Long,Medium,No,11,New,48
+TT0679,Haircut,Long,Medium,Long,Low,No,12,Returning,31
+TT0680,Haircut,Medium,Medium,None,Low,No,17,Returning,23
+TT0681,Haircut,Medium,High,None,Medium,No,18,Returning,31
+TT0682,Haircut,Long,High,Short,Low,No,3,Returning,48
+TT0683,Haircut,Medium,Low,Medium,Medium,Yes,1,New,41
+TT0684,Beard Trim,Short,Medium,Short,Medium,Yes,3,Returning,30
+TT0685,Haircut + Beard,Short,Medium,None,Low,No,14,New,40
+TT0686,Haircut,Short,Medium,Short,Low,Yes,12,Returning,31
+TT0687,Beard Trim,Medium,Low,None,Medium,Yes,2,New,40
+TT0688,Hair Coloring,Medium,Medium,None,High,No,5,Returning,97
+TT0689,Haircut + Beard,Medium,Medium,None,Medium,No,11,Returning,43
+TT0690,Beard Trim,Medium,Medium,Medium,Medium,No,15,Returning,25
+TT0691,Haircut,Long,High,Short,Low,Yes,7,Returning,34
+TT0692,Facial,Long,Medium,None,Medium,No,19,Returning,46
+TT0693,Haircut,Short,High,Short,Low,No,20,New,25
+TT0694,Haircut,Medium,High,Short,Medium,No,16,Returning,33
+TT0695,Hair Coloring,Medium,High,Medium,Medium,No,10,Returning,80
+TT0696,Beard Trim,Medium,Low,Long,Medium,No,18,Returning,27
+TT0697,Haircut + Beard,Short,High,None,Low,Yes,15,Returning,36
+TT0698,Haircut + Beard,Long,Low,Long,Low,No,11,Returning,50
+TT0699,Haircut + Beard,Long,Medium,Medium,Low,No,9,Returning,43
+TT0700,Haircut,Medium,High,Medium,Medium,Yes,17,Returning,40
+TT0701,Haircut,Long,Medium,Short,High,No,12,New,54
+TT0702,Haircut,Long,Medium,None,Low,No,4,New,42
+TT0703,Haircut,Medium,Medium,None,Medium,No,20,New,40
+TT0704,Facial,Medium,High,Long,Medium,No,2,Returning,62
+TT0705,Haircut,Medium,Medium,Short,Low,No,14,New,26
+TT0706,Beard Trim,Long,Medium,Short,Low,Yes,14,New,40
+TT0707,Facial,Short,High,Short,Medium,No,12,New,37
+TT0708,Facial,Medium,Low,None,Medium,No,2,Returning,47
+TT0709,Beard Trim,Long,Low,None,Medium,No,10,New,27
+TT0710,Beard Trim,Short,Medium,Short,Medium,Yes,18,New,23
+TT0711,Hair Coloring,Long,High,Short,High,No,5,Returning,102
+TT0712,Haircut + Beard,Medium,Low,Medium,Medium,Yes,14,New,61
+TT0713,Facial,Long,Low,Medium,High,No,18,Returning,58
+TT0714,Hair Coloring,Long,Low,Short,Medium,No,20,Returning,85
+TT0715,Facial,Short,High,Medium,High,No,11,Returning,52
+TT0716,Haircut,Long,Low,None,High,No,7,Returning,46
+TT0717,Beard Trim,Short,Medium,Medium,Medium,No,14,Returning,22
+TT0718,Haircut,Medium,High,Medium,High,Yes,10,New,59
+TT0719,Haircut + Beard,Medium,Low,None,High,No,13,New,54
+TT0720,Hair Coloring,Long,Medium,None,Medium,No,15,New,94
+TT0721,Beard Trim,Short,Medium,None,Medium,No,15,New,13
+TT0722,Beard Trim,Short,High,None,Medium,No,5,Returning,23
+TT0723,Haircut,Medium,Medium,Short,High,No,16,New,35
+TT0724,Hair Coloring,Medium,Medium,None,Medium,No,11,New,88
+TT0725,Haircut,Medium,Low,Medium,High,No,19,Returning,47
+TT0726,Haircut,Short,Medium,None,Medium,No,14,Returning,25
+TT0727,Haircut,Short,High,None,High,No,18,New,41
+TT0728,Haircut,Long,Low,None,Low,No,20,New,37
+TT0729,Beard Trim,Short,Medium,None,Medium,No,20,New,10
+TT0730,Beard Trim,Medium,High,Long,Medium,No,15,New,31
+TT0731,Haircut,Long,Low,None,High,Yes,12,Returning,51
+TT0732,Haircut,Short,Medium,None,High,No,3,Returning,23
+TT0733,Haircut,Medium,Medium,None,Medium,Yes,8,Returning,35
+TT0734,Beard Trim,Short,Medium,Short,Medium,No,10,Returning,24
+TT0735,Haircut,Long,Medium,Short,Low,No,16,Returning,36
+TT0736,Haircut + Beard,Medium,Medium,Medium,High,No,12,Returning,57
+TT0737,Haircut,Long,Low,Short,Low,No,9,New,39
+TT0738,Haircut,Short,Medium,Short,Medium,Yes,3,New,43
+TT0739,Beard Trim,Medium,Medium,Short,Medium,Yes,15,Returning,31
+TT0740,Beard Trim,Long,Medium,Medium,Medium,No,9,Returning,29
+TT0741,Haircut,Short,Low,Short,Low,No,1,New,29
+TT0742,Haircut,Short,High,None,Low,No,6,New,29
+TT0743,Facial,Short,Low,Medium,High,No,18,Returning,51
+TT0744,Haircut,Long,High,Medium,Medium,Yes,3,New,65
+TT0745,Beard Trim,Medium,Medium,Short,Low,No,9,Returning,25
+TT0746,Beard Trim,Medium,High,Long,Medium,No,11,Returning,29
+TT0747,Haircut,Medium,Low,Medium,Low,Yes,2,Returning,34
+TT0748,Beard Trim,Medium,Low,None,High,Yes,4,New,47
+TT0749,Facial,Medium,Medium,Medium,Medium,No,19,New,50
+TT0750,Facial,Medium,Low,Short,Low,No,12,Returning,36
+TT0751,Haircut,Medium,Low,Short,Low,Yes,5,Returning,31
+TT0752,Haircut,Short,Medium,Short,Medium,No,4,New,37
+TT0753,Haircut,Long,High,Medium,Medium,No,9,New,42
+TT0754,Beard Trim,Long,Low,Short,Medium,No,15,Returning,27
+TT0755,Haircut + Beard,Short,High,Short,Medium,Yes,15,Returning,57
+TT0756,Haircut,Medium,High,None,Medium,Yes,4,Returning,53
+TT0757,Haircut,Short,High,Short,Low,Yes,15,Returning,35
+TT0758,Hair Coloring,Long,Medium,Long,Low,No,18,Returning,80
+TT0759,Haircut,Long,Medium,Medium,High,No,5,Returning,50
+TT0760,Beard Trim,Long,Medium,None,Low,No,1,New,40
+TT0761,Haircut + Beard,Short,Medium,Long,High,Yes,20,Returning,55
+TT0762,Haircut,Short,High,Medium,Medium,No,11,Returning,34
+TT0763,Haircut,Short,Low,Short,Low,No,16,New,31
+TT0764,Haircut,Short,Medium,None,Low,Yes,7,Returning,35
+TT0765,Hair Coloring,Short,Low,Short,Low,No,6,Returning,85
+TT0766,Haircut,Short,High,None,Medium,Yes,5,New,41
+TT0767,Haircut,Long,Medium,None,Medium,No,5,Returning,34
+TT0768,Haircut,Short,Medium,Short,Medium,Yes,10,Returning,42
+TT0769,Haircut,Short,High,Long,Medium,No,3,Returning,34
+TT0770,Haircut + Beard,Long,High,Short,Medium,No,17,Returning,51
+TT0771,Haircut,Medium,Low,Medium,High,No,11,Returning,40
+TT0772,Beard Trim,Long,High,Long,High,No,19,Returning,47
+TT0773,Haircut + Beard,Medium,High,None,Medium,No,11,Returning,51
+TT0774,Facial,Long,Low,None,High,No,7,Returning,56
+TT0775,Haircut,Medium,High,Medium,Medium,No,11,Returning,36
+TT0776,Facial,Medium,Medium,Medium,Medium,Yes,4,Returning,61
+TT0777,Haircut + Beard,Medium,Medium,Short,Medium,No,17,Returning,64
+TT0778,Haircut,Medium,Medium,Medium,Low,Yes,15,Returning,39
+TT0779,Facial,Short,Medium,Short,Medium,Yes,3,New,52
+TT0780,Facial,Medium,Low,Medium,High,No,12,Returning,43
+TT0781,Haircut,Short,Low,Medium,Low,Yes,11,Returning,28
+TT0782,Hair Coloring,Long,Low,None,High,No,5,Returning,93
+TT0783,Beard Trim,Short,Medium,None,High,No,3,Returning,25
+TT0784,Haircut + Beard,Short,Medium,None,Low,No,16,Returning,35
+TT0785,Hair Coloring,Short,Low,Long,Medium,Yes,6,New,104
+TT0786,Haircut,Long,Medium,Long,High,No,11,New,60
+TT0787,Facial,Short,Medium,Medium,High,No,5,Returning,49
+TT0788,Haircut,Medium,Medium,None,Low,Yes,14,Returning,27
+TT0789,Facial,Long,High,Short,Medium,No,1,Returning,60
+TT0790,Haircut + Beard,Short,Medium,None,Medium,Yes,8,Returning,49
+TT0791,Haircut,Long,High,Short,Low,Yes,11,Returning,34
+TT0792,Beard Trim,Short,Low,None,Medium,Yes,9,Returning,27
+TT0793,Haircut,Short,Medium,Medium,Low,Yes,13,Returning,38
+TT0794,Haircut,Medium,High,None,Low,Yes,4,Returning,27
+TT0795,Haircut,Long,High,Short,Medium,No,9,Returning,37
+TT0796,Haircut,Short,Medium,Long,Medium,Yes,16,Returning,39
+TT0797,Haircut,Medium,Medium,Medium,Medium,Yes,7,Returning,47
+TT0798,Haircut,Short,Medium,None,Medium,No,4,New,32
+TT0799,Haircut + Beard,Medium,Medium,Long,Medium,No,17,New,50
+TT0800,Haircut + Beard,Medium,High,Short,Low,Yes,16,New,56
+TT0801,Haircut + Beard,Medium,High,Short,Low,No,14,Returning,40
+TT0802,Haircut,Medium,Medium,Medium,Low,No,16,Returning,31
+TT0803,Facial,Short,Low,Medium,Medium,No,16,Returning,32
+TT0804,Haircut + Beard,Medium,Medium,Short,Low,No,15,Returning,32
+TT0805,Haircut,Medium,Low,Short,Low,Yes,11,New,40
+TT0806,Haircut,Medium,Low,Short,Low,No,1,Returning,30
+TT0807,Haircut + Beard,Short,Medium,None,Medium,Yes,12,Returning,52
+TT0808,Haircut,Medium,Medium,Medium,Medium,Yes,6,New,45
+TT0809,Beard Trim,Medium,Low,None,High,No,16,New,26
+TT0810,Hair Coloring,Short,Low,Short,Medium,Yes,10,New,94
+TT0811,Haircut,Short,Low,Short,Medium,No,19,Returning,17
+TT0812,Haircut,Medium,High,None,Low,Yes,12,New,47
+TT0813,Hair Coloring,Medium,Medium,Short,Medium,Yes,12,Returning,95
+TT0814,Haircut + Beard,Short,Low,Short,Low,No,19,Returning,37
+TT0815,Haircut,Long,Low,None,Medium,Yes,10,Returning,39
+TT0816,Facial,Medium,Medium,None,Medium,No,8,Returning,39
+TT0817,Facial,Long,Medium,Medium,Medium,No,8,New,54
+TT0818,Beard Trim,Medium,Medium,Long,Low,Yes,18,Returning,22
+TT0819,Haircut + Beard,Medium,Medium,Short,Medium,No,16,Returning,39
+TT0820,Haircut,Medium,High,None,High,No,4,Returning,48
+TT0821,Haircut,Long,Medium,None,Medium,No,10,New,45
+TT0822,Haircut + Beard,Medium,Medium,None,Medium,No,8,Returning,41
+TT0823,Haircut,Medium,Low,Short,Medium,Yes,13,Returning,40
+TT0824,Haircut + Beard,Medium,High,Long,Low,No,2,New,59
+TT0825,Facial,Medium,High,Medium,Medium,No,15,New,58
+TT0826,Haircut,Short,Medium,None,Medium,No,15,New,34
+TT0827,Haircut + Beard,Medium,Medium,Long,Low,Yes,5,Returning,61
+TT0828,Haircut,Medium,Low,Short,Medium,No,4,Returning,35
+TT0829,Facial,Long,High,None,High,No,13,Returning,61
+TT0830,Haircut,Medium,Medium,Short,Medium,No,6,Returning,27
+TT0831,Haircut + Beard,Medium,Low,None,Medium,No,19,Returning,41
+TT0832,Beard Trim,Long,Medium,Long,Medium,Yes,16,Returning,39
+TT0833,Beard Trim,Medium,Medium,Short,Medium,No,20,New,24
+TT0834,Haircut + Beard,Short,High,Medium,Medium,No,11,New,53
+TT0835,Haircut + Beard,Short,Medium,Short,Low,Yes,19,Returning,45
+TT0836,Beard Trim,Short,Medium,Long,Medium,No,1,Returning,30
+TT0837,Haircut + Beard,Short,Medium,Short,Medium,No,6,Returning,42
+TT0838,Hair Coloring,Medium,Medium,Short,Low,No,1,Returning,77
+TT0839,Beard Trim,Long,Medium,None,Medium,No,14,Returning,32
+TT0840,Beard Trim,Medium,Low,Long,Low,Yes,11,New,34
+TT0841,Haircut,Short,High,Short,Medium,Yes,6,Returning,35
+TT0842,Facial,Medium,Medium,None,Medium,Yes,7,New,54
+TT0843,Beard Trim,Short,Medium,Medium,Medium,Yes,13,Returning,19
+TT0844,Beard Trim,Long,Low,None,Medium,No,4,Returning,28
+TT0845,Haircut,Short,Low,None,High,No,11,New,36
+TT0846,Facial,Medium,Medium,Short,Medium,No,13,New,43
+TT0847,Beard Trim,Short,Low,None,Medium,Yes,5,Returning,33
+TT0848,Haircut + Beard,Medium,Low,Short,Medium,Yes,5,Returning,46
+TT0849,Haircut,Medium,High,None,Low,No,8,Returning,35
+TT0850,Hair Coloring,Long,Medium,None,Low,Yes,12,New,104
+TT0851,Haircut,Short,Medium,None,Medium,Yes,6,Returning,42
+TT0852,Haircut,Long,Medium,None,Low,Yes,8,Returning,40
+TT0853,Facial,Medium,High,Long,Medium,Yes,11,Returning,52
+TT0854,Hair Coloring,Long,Medium,Short,Medium,No,4,Returning,83
+TT0855,Haircut,Long,High,Short,Medium,No,12,Returning,38
+TT0856,Beard Trim,Long,High,Short,Low,No,3,Returning,25
+TT0857,Haircut + Beard,Short,Medium,Medium,High,No,3,Returning,50
+TT0858,Facial,Short,Medium,None,Medium,Yes,5,Returning,46
+TT0859,Haircut,Short,Medium,None,Medium,No,6,Returning,29
+TT0860,Beard Trim,Short,Medium,Medium,Low,No,1,Returning,22
+TT0861,Haircut + Beard,Medium,Medium,Short,Medium,No,20,Returning,38
+TT0862,Haircut + Beard,Long,Medium,Medium,Low,No,7,New,50
+TT0863,Facial,Long,Medium,Long,Medium,No,17,New,55
+TT0864,Beard Trim,Medium,Low,Medium,Medium,No,19,Returning,21
+TT0865,Haircut,Medium,Medium,None,High,Yes,17,Returning,54
+TT0866,Hair Coloring,Long,Low,None,Medium,No,17,Returning,85
+TT0867,Facial,Long,Medium,None,Medium,No,3,Returning,42
+TT0868,Facial,Short,Medium,Medium,Low,No,8,Returning,39
+TT0869,Haircut,Medium,High,Long,Medium,No,15,Returning,42
+TT0870,Haircut,Long,Low,Long,Medium,Yes,12,Returning,47
+TT0871,Haircut + Beard,Short,Medium,None,Medium,Yes,1,New,50
+TT0872,Haircut,Medium,Medium,Medium,Low,No,12,Returning,39
+TT0873,Hair Coloring,Long,Low,Short,Low,Yes,17,New,84
+TT0874,Haircut,Long,Low,Medium,Low,Yes,17,Returning,42
+TT0875,Haircut + Beard,Long,Low,Short,High,No,8,Returning,57
+TT0876,Facial,Long,Low,None,Medium,No,5,Returning,50
+TT0877,Beard Trim,Short,Medium,None,Low,No,7,New,27
+TT0878,Haircut,Short,Medium,Long,High,Yes,6,Returning,53
+TT0879,Haircut + Beard,Medium,Medium,Short,Low,No,7,New,43
+TT0880,Haircut + Beard,Medium,Low,Short,Medium,No,7,Returning,50
+TT0881,Beard Trim,Medium,Low,Short,Medium,Yes,10,New,28
+TT0882,Haircut + Beard,Medium,Low,Short,High,Yes,1,Returning,61
+TT0883,Hair Coloring,Medium,Medium,Long,Medium,Yes,6,Returning,90
+TT0884,Beard Trim,Medium,Medium,None,Medium,Yes,7,New,29
+TT0885,Haircut,Short,Medium,None,High,No,4,New,42
+TT0886,Haircut,Short,Low,Medium,Low,Yes,18,Returning,32
+TT0887,Beard Trim,Short,Low,Short,High,No,14,New,18
+TT0888,Haircut,Short,High,None,High,No,19,New,43
+TT0889,Haircut,Long,Low,None,High,Yes,12,Returning,45
+TT0890,Haircut + Beard,Medium,Low,None,Low,No,3,Returning,47
+TT0891,Haircut,Short,Low,None,Low,No,19,Returning,18
+TT0892,Hair Coloring,Long,High,None,Medium,No,10,Returning,85
+TT0893,Haircut,Medium,Medium,None,Medium,No,14,Returning,31
+TT0894,Haircut,Short,Medium,Medium,Medium,No,8,Returning,28
+TT0895,Haircut + Beard,Short,High,Medium,High,No,10,Returning,61
+TT0896,Facial,Short,Low,Long,Medium,Yes,10,Returning,50
+TT0897,Haircut,Medium,High,Short,Medium,Yes,6,Returning,43
+TT0898,Haircut,Short,Low,None,Medium,No,12,Returning,29
+TT0899,Haircut,Short,Medium,Long,Low,No,15,Returning,23
+TT0900,Beard Trim,Short,Medium,Medium,Low,Yes,1,New,24
+TT0901,Beard Trim,Medium,Medium,Short,Low,No,3,Returning,22
+TT0902,Haircut,Short,High,None,High,No,17,New,35
+TT0903,Haircut,Long,Low,None,Medium,No,12,Returning,29
+TT0904,Beard Trim,Short,High,Short,Medium,No,20,New,28
+TT0905,Hair Coloring,Medium,Medium,Short,Medium,No,13,Returning,84
+TT0906,Haircut + Beard,Medium,Medium,None,Medium,Yes,14,Returning,45
+TT0907,Beard Trim,Medium,High,Long,High,Yes,18,Returning,41
+TT0908,Haircut,Short,Low,Short,High,No,14,New,32
+TT0909,Haircut,Long,High,Short,Medium,No,7,New,54
+TT0910,Haircut,Long,Medium,None,High,No,11,Returning,49
+TT0911,Facial,Short,Medium,Medium,Medium,No,5,New,45
+TT0912,Facial,Short,Low,Medium,Medium,Yes,7,Returning,50
+TT0913,Hair Coloring,Long,Medium,None,High,No,14,Returning,86
+TT0914,Hair Coloring,Medium,Medium,Short,Medium,Yes,3,New,93
+TT0915,Hair Coloring,Short,Medium,Medium,Medium,No,14,Returning,81
+TT0916,Hair Coloring,Short,Low,Medium,Medium,No,12,Returning,81
+TT0917,Haircut,Medium,Low,None,Medium,No,7,New,35
+TT0918,Haircut,Medium,High,Medium,Medium,No,1,Returning,43
+TT0919,Haircut,Medium,Low,Short,Medium,Yes,15,New,40
+TT0920,Beard Trim,Long,Medium,None,Medium,Yes,17,Returning,32
+TT0921,Haircut,Medium,High,None,Low,No,15,Returning,27
+TT0922,Facial,Short,Low,None,High,No,9,Returning,42
+TT0923,Haircut + Beard,Medium,Low,None,Medium,Yes,14,Returning,50
+TT0924,Beard Trim,Medium,Medium,Short,High,Yes,9,New,43
+TT0925,Haircut,Short,Low,Medium,Low,No,8,Returning,26
+TT0926,Haircut,Short,Medium,None,Medium,No,7,Returning,24
+TT0927,Haircut,Medium,Medium,Long,Medium,No,5,Returning,35
+TT0928,Facial,Medium,Medium,None,High,No,20,Returning,50
+TT0929,Haircut + Beard,Short,Medium,Short,Low,No,14,Returning,42
+TT0930,Haircut + Beard,Medium,Medium,Long,High,No,4,Returning,61
+TT0931,Haircut,Medium,Medium,Medium,Medium,No,18,Returning,32
+TT0932,Haircut,Medium,Low,Short,Medium,No,4,Returning,34
+TT0933,Beard Trim,Long,Medium,Medium,Medium,No,12,Returning,24
+TT0934,Facial,Long,High,None,Low,Yes,4,Returning,61
+TT0935,Facial,Medium,Medium,None,Medium,No,8,Returning,44
+TT0936,Haircut,Short,Medium,Short,Low,No,14,New,23
+TT0937,Hair Coloring,Medium,Medium,None,Medium,No,20,Returning,80
+TT0938,Haircut,Medium,Low,Short,Medium,No,20,New,30
+TT0939,Facial,Short,Low,None,Medium,Yes,18,Returning,48
+TT0940,Haircut,Short,Low,Long,Low,No,5,New,32
+TT0941,Haircut,Short,High,Long,Low,No,2,New,40
+TT0942,Facial,Medium,Low,Medium,Low,Yes,19,Returning,47
+TT0943,Haircut,Medium,High,Medium,Low,Yes,19,Returning,35
+TT0944,Beard Trim,Short,Low,None,Medium,Yes,6,Returning,26
+TT0945,Beard Trim,Long,Medium,None,Low,No,1,Returning,27
+TT0946,Haircut,Long,Medium,Medium,High,No,13,New,43
+TT0947,Haircut + Beard,Short,Medium,Short,Low,Yes,2,Returning,48
+TT0948,Facial,Long,High,Short,Low,No,1,Returning,48
+TT0949,Facial,Short,High,Short,High,Yes,19,Returning,54
+TT0950,Haircut,Long,High,Short,Low,Yes,10,Returning,43
+TT0951,Beard Trim,Long,Low,None,Medium,No,3,New,33
+TT0952,Haircut,Short,High,None,High,No,14,Returning,44
+TT0953,Haircut,Long,Low,Short,High,No,8,Returning,37
+TT0954,Haircut,Long,High,Short,Medium,No,11,New,42
+TT0955,Hair Coloring,Long,Medium,Long,Low,Yes,18,Returning,97
+TT0956,Facial,Long,Medium,Short,Medium,Yes,5,Returning,59
+TT0957,Facial,Medium,Low,Medium,High,No,13,New,56
+TT0958,Beard Trim,Short,Low,Medium,High,Yes,17,Returning,46
+TT0959,Beard Trim,Long,Low,None,Low,No,9,New,28
+TT0960,Beard Trim,Medium,High,Medium,Medium,Yes,20,New,43
+TT0961,Beard Trim,Medium,High,Short,Medium,No,9,Returning,24
+TT0962,Beard Trim,Medium,High,Short,Low,Yes,10,New,27
+TT0963,Haircut,Medium,Low,None,Medium,Yes,18,New,38
+TT0964,Haircut,Short,Medium,Long,Low,No,13,Returning,32
+TT0965,Hair Coloring,Medium,Medium,Long,Medium,No,18,New,93
+TT0966,Beard Trim,Short,Medium,None,Low,Yes,16,Returning,21
+TT0967,Hair Coloring,Medium,Medium,None,Medium,No,15,Returning,80
+TT0968,Haircut,Long,Medium,None,Low,Yes,5,New,43
+TT0969,Beard Trim,Medium,Medium,Medium,Medium,Yes,8,Returning,32
+TT0970,Haircut,Medium,Low,Short,Low,Yes,18,New,38
+TT0971,Haircut,Short,Medium,None,High,No,13,Returning,39
+TT0972,Haircut,Long,Medium,Medium,Low,No,6,New,36
+TT0973,Haircut,Medium,Low,Short,Medium,Yes,7,Returning,42
+TT0974,Hair Coloring,Medium,High,Short,Low,No,16,New,79
+TT0975,Haircut,Short,Medium,Short,Low,No,4,Returning,28
+TT0976,Haircut + Beard,Short,High,Short,Low,No,3,New,45
+TT0977,Beard Trim,Medium,Medium,Short,Low,Yes,16,New,35
+TT0978,Beard Trim,Long,Medium,None,Low,No,6,Returning,22
+TT0979,Beard Trim,Medium,Medium,Short,Medium,No,16,Returning,22
+TT0980,Haircut,Short,High,Long,Medium,No,11,Returning,40
+TT0981,Hair Coloring,Long,Medium,Short,Low,Yes,20,New,87
+TT0982,Facial,Medium,Medium,Long,Medium,No,11,New,52
+TT0983,Haircut + Beard,Long,Low,Short,Medium,Yes,18,Returning,52
+TT0984,Beard Trim,Short,Medium,Medium,Low,Yes,18,Returning,19
+TT0985,Haircut,Medium,Low,None,Medium,Yes,5,Returning,37
+TT0986,Hair Coloring,Long,Low,Medium,Low,Yes,20,Returning,94
+TT0987,Haircut,Short,Low,None,Low,No,15,Returning,17
+TT0988,Haircut,Medium,Medium,None,Medium,Yes,3,New,49
+TT0989,Haircut,Long,Low,None,High,No,1,Returning,47
+TT0990,Facial,Short,Medium,None,High,Yes,6,Returning,47
+TT0991,Haircut + Beard,Short,High,Long,High,No,1,Returning,63
+TT0992,Haircut + Beard,Medium,High,Long,Medium,Yes,8,Returning,55
+TT0993,Facial,Short,Medium,Medium,Low,Yes,20,New,49
+TT0994,Haircut,Short,Medium,None,Medium,No,10,Returning,26
+TT0995,Hair Coloring,Medium,Medium,Long,Low,Yes,1,Returning,94
+TT0996,Beard Trim,Long,Medium,Medium,Low,No,10,New,23
+TT0997,Haircut + Beard,Short,Medium,None,Low,No,5,Returning,39
+TT0998,Haircut,Short,Low,Short,Medium,No,18,Returning,29
+TT0999,Hair Coloring,Long,High,Medium,Medium,No,2,New,96
+TT1000,Haircut,Medium,Low,None,Low,No,16,New,25
